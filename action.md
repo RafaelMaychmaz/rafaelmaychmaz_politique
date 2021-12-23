@@ -11,7 +11,7 @@ Sur cette page :
 * Ma présence dans Saint-Cloud aux côtés des acteurs locaux et des habitants
 * Mon bilan annuel
 
-Vous êtes concerné par une problématique et vous souhaiter qu'on échange ensemble pour co-construire une solution concrète ? Je suis à votre disposition.
+Vous êtes concerné par une problématique et vous souhaitez qu'on échange ensemble pour co-construire une solution concrète ? Je suis à votre disposition.
 
 ![texte alternatif à l'image](/assets/img/action/thumbnail.png "Description de l info-bulle image"){:class="img_1_centered"}
 {: .pContainerOfImage}
