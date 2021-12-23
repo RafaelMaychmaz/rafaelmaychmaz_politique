@@ -10,6 +10,7 @@ Sur cette page :
 * Ma participation aux CCAS
 * Ma présence dans Saint-Cloud aux côtés des acteurs locaux et des habitants
 * Mon bilan annuel
+* Vulgarisation du fonctionnement de la commune et du rôle/des missions d'un conseiller municipal d'opposition
 
 Vous êtes concerné par une problématique et vous souhaitez qu'on échange ensemble pour co-construire une solution concrète ? Je suis à votre disposition.
 
