@@ -1,6 +1,6 @@
 ---
 layout: rm_post
-title: "Idées"
+title: "Action"
 subtitle: "L'action de Rafaël Maychmaz, conseiller municipal à Saint-Cloud"
 header-img: assets/img/action/thumbnail.png
 ---
