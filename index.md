@@ -13,7 +13,7 @@ header-img: assets/img/header-bg.jpg
 Sur cette page :
 * Slogan : "Saint-Cloud : Pour un cadre de vie exceptionnel aux portes de Paris"
 * Photo d'élu + l'objectif de ce site
-* Ma bio en bref (2015, Père de famille, 36 ans, Val d'or, Ingénieur, acteur associatif)
+* Ma bio en bref (Père de famille, 36 ans, Val d'or, Ingénieur, acteur associatif)
 * L'actualité (blog)
 * Formulaire de contact
 * Présence sur les réseaux sociaux
