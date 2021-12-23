@@ -1,0 +1,454 @@
+@charset "utf-8";
+@import url('https://fonts.googleapis.com/css2?family=Lora:ital,wght@0,400;0,500;0,700;1,700&family=Roboto:wght@400;500;700;900&family=Special+Elite&display=swap');
+@import url('https://fonts.googleapis.com/css?family=Open+Sans');
+@import url('https://fonts.googleapis.com/css?family=Kaushan+Script');
+@import url('https://fonts.googleapis.com/css?family=Montserrat');
+@import url('https://fonts.googleapis.com/css?family=Roboto+Slab');
+
+/* Note: clockwise styling => top, right, bottom, left */
+
+/* ================================================
+MAIN VIEWPORT
+================================================ */
+
+/*
+colors
+rouge : #E94562 ou #E94662
+bleu : #4B55A1
+*/
+
+@media screen and (max-width: 600px) {
+    .main {
+        margin-top: 4rem;
+        margin-bottom: 4rem;
+        margin-left: auto;
+        margin-right:auto;
+        width: 100%;
+        padding-top: 20px;
+    }
+}
+
+@media screen and (min-width: 601px) {
+    .main {
+        margin-top: 4rem;
+        margin-bottom: 4rem;
+        margin-left: auto;
+        margin-right:auto;
+        max-width: 900px; /* or 1140 */
+        padding-top: 50px;
+    }
+}
+
+/* ================================================
+MAIN NAVBAR
+================================================ */
+#mainNav {
+    background-color: #212529;
+    position: fixed;
+    top: 0;
+    right: 0;
+    left: 0;
+    z-index: 1030;
+    padding: .5rem 1rem;
+}
+#mainNav > .container {
+    padding-right: 0;
+    padding-left: 0;
+    line-height: 1.5;
+}
+#mainNav_brand {
+    font-family: 'Kaushan Script', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol', 'Noto Color Emoji';
+    color: #9fcc9d;
+    font-weight: 500;
+    display: inline-block;
+    padding-top: .3125rem;
+    padding-bottom: .3125rem;
+    margin-right: 1rem;
+    font-size: 1.35rem; /*au lieu de 1.25rem*/
+    line-height: inherit;
+    white-space: nowrap;
+    text-decoration: none;
+    background-color: transparent;
+    text-align: left;
+}
+.mainNav_li {
+    font-family: 'Montserrat';
+}
+#mainNav_button {
+    background-color: #9fcc9d;
+    border: 0;
+    border-radius: .25rem;
+    border-style: none;
+    margin: 0;
+    padding: 13px;
+    line-height: 1;
+    color: white;
+    font-family: 'Montserrat';
+    text-transform: uppercase;
+    font-size: 12px;
+    font-weight: 400;
+}
+#mainNav_button > .fa-bars::before {
+    content: "\f0c9";
+}
+
+/* ================================================
+C O D E   H I G H L I G H T I N G
+================================================ */
+
+tagcode {
+    font-family: var(--bs-font-monospace);
+    background-color: rgb(230, 230, 230);
+    border: 1px solid #C1C1C1;
+    border-radius: 3px;
+    padding: 2px;
+}
+
+/* ================================================
+H E A D I N G S
+================================================ */
+
+
+/* Heading : Global title of the page */
+h1 {
+    font-family: 'Kaushan Script';
+    font-weight: 600;
+    text-align: center;
+    margin: 1em 0 0.5em 0;	
+    position: relative;  
+    font-size: 36px;
+    line-height: 40px;
+    padding: 15px;
+    color: #1b2c42;
+    background: rgba(255, 255, 255, 0.829)
+}
+
+h2, h3, h4 {
+    margin-left: 5px;
+    margin-right: 5px;
+    /*font-family: 'Roboto', sans-serif;*/
+    font-family: 'Roboto', sans-serif;
+}
+
+/* Classic title 1 */
+h2 {
+    font-weight: normal;
+    position: relative;
+    text-shadow: 0 -1px rgba(0,0,0,0.6);
+    font-size: 28px;
+    line-height: 40px;
+    /*background: #355681;
+    background: rgba(53,86,129, 0.8);*/
+    background: rgb(33, 37, 41, 0.9);
+    border: 1px solid #fff;
+    padding: 5px 15px;
+    /*color: white;*/
+    color: #C1C1C1;
+    border-radius: 3px 3px 3px 3px;
+    box-shadow: inset 0 0 5px rgba(53,86,129, 0.5);
+}
+
+/* Classic title 2 */
+h3 {
+    font-weight: 600;
+    position: relative;
+    text-shadow: 0 -1px 1px rgba(0,0,0,0.4);
+    font-size: 22px;
+    line-height: 40px;
+    /*color: #355681;*/
+    color: rgb(33, 37, 41, 0.9);
+    text-transform: uppercase;
+    border-bottom: 1px solid rgba(53,86,129, 0.3);
+}
+
+/* Classic title 3 : the smallest (3 levels is enought) */
+h4 {
+    font-weight: 600;
+    position: relative;
+    font-size: 21px;
+    line-height: 20px;
+    color: #788699;
+}
+
+/* NOT USED */
+h5 {
+    margin-top: 1.30em;
+    margin-bottom: 1.67em;
+    margin-left: 5px;
+    margin-right: 5px;
+    display: block;
+    text-align: center;
+    font-family: 'Lora', serif;
+    font-size: .83em;
+    font-weight: 400;
+    font-style: italic;
+}
+
+/* NOT USED */
+h6 {
+    color: crimson;
+    font-family: 'Lora', serif;
+    display: block;
+    font-size: 1.3em;
+    margin-top: 1.30em;
+    margin-left: 5px;
+    margin-right: 5px;
+    font-weight: bold;
+}
+
+/* Quote "une belle citation" */
+.paf {
+    font-family: 'Special Elite', cursive;
+    color: #3f3f5a;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+
+blockquote {
+    font-weight: 100;
+    font-size: 2rem;
+    max-width: 500px;
+    line-height: 1.4;
+    position: relative;
+    margin-top: 0;
+    margin-bottom: 0;
+    margin-left: 5rem;
+    margin-right: 5rem;
+    padding: .5rem;
+}
+
+blockquote:before,
+blockquote:after {
+    position: absolute;
+    color: #b1b5ca;
+    font-size: 8rem;
+    width: 4rem;
+    height: 4rem;
+}
+
+blockquote:before {
+    content: '“';
+    left: -4rem;
+    top: -2rem;
+}
+
+blockquote:after {
+    content: '”';
+    right: -4rem;
+    bottom: 1rem;
+}
+
+cite {
+    line-height: 3;
+    text-align: left;
+}
+
+/*===========================================================================
+T E X T
+---------------------------------------------------------------------------*/
+/* Standard P (text paragraph) et élément d'une liste
+Note: P wrapping images (jekyll + markdown) shall be exclude to not be impacted
+by text styling.
+*/
+p:not(.pContainerOfImage), li:not(.mainNav_li) {
+    margin-left: 10px;
+    margin-right: 10px;
+    font-family: 'Lora', serif;
+    font-weight: 400;
+    font-size: medium;
+    text-align: justify;
+}
+
+.p_loremipsum {
+    color:lightgray;
+}
+
+
+/*===========================================================================
+T A B L E
+---------------------------------------------------------------------------*/
+table, th, td {
+    border: 1px solid black;
+    margin: 20px auto 20px auto;
+    padding: 5px;
+  }
+
+/*===========================================================================
+I M A G E
+---------------------------------------------------------------------------*/
+/*
+- IMPORTANT: images size shall be bigger (or equal) to specified:
+    => downscale is OK.
+    => this CSS does not upscale image.
+- FORMAT SUPPORTED width x height
+    => SQUARE : 1/1
+    => PORTRAIT : 2/3, 5/7 and 8.5/11 the closest to square shape
+    => LANDSCAPE : 16/9, 16/10 and 4/3 the closest to square shape
+- Floating images (left/right) + side text (cf: .clearfix comments)
+
+*/
+@media screen and (max-width: 600px) {
+    .pContainerOfImage {
+        margin-left: 0px;
+        margin-right: 0px;
+    }
+
+    .img_1_centered {
+        /* This displays image in full width */
+        display: block;
+        width: 100%;
+        margin-left: 0px;
+        margin-right: 0px;
+        /*max-width: 600px;*/
+    }
+}
+
+@media screen and (min-width: 601px) {
+    .pContainerOfImage {
+        /* This code centers the image */
+        text-align: center;
+        width: 100%;
+    }
+
+    .img_1_centered {
+        /* This code centers the image */
+        margin-left: auto; 
+        margin-right: auto;
+        display: block;
+        max-width: 90%;
+        max-height: 600px;
+    }
+}
+
+.clearfix::after {
+    /* After use of floating element (ex: image), text flow must be cleared
+    Thus floating elements (ex: image + side text) must be wrapped with <div class="clearfix">...</div>
+    */
+    content: "";
+    clear: both;
+    display: table;
+}
+
+
+.img_1_portait_floatright {
+    /* This displays image and text side by side
+    Ideal size is with ratio 2/3 (ex:1000x1500)
+     */
+    float: right;
+    margin-top: 5px;
+    margin-left: 3%;
+    margin-bottom: 5px;
+    margin-right: 3%;
+    max-width: 50%; /* to limit dimensions for small screens */
+    max-height: 360px;  /* to limit dimensions for big screens */
+}
+
+.img_1_portait_floatleft {
+    /* This displays image and text side by side
+    Ideal size is with ratio 2/3 (ex:1000x1500)
+     */
+    float: left;
+    margin-top: 5px;
+    margin-left: 3%;
+    margin-bottom: 5px;
+    margin-right: 3%;
+    max-width: 50%; /* to limit dimensions for small screens */
+    max-height: 360px;  /* to limit dimensions for big screens */
+}
+
+.img_1_landscape_floatright {
+    /* This displays image and text side by side
+    Ideal size is with ratio 16/9 (ex:1920x1080)
+     */
+    float: right;
+    margin-top: 5px;
+    margin-left: 3%;
+    margin-bottom: 5px;
+    margin-right: 3%;
+    max-width: 66%;  /* to limit dimensions for small screens */
+    max-height: 300px; /* to limit dimensions for big screens */
+}
+
+.img_1_landscape_floatleft {
+    /* This displays image and text side by side
+    Ideal size is with ratio 16/9 (ex:1920x1080)
+     */
+    float: left;
+    margin-top: 5px;
+    margin-left: 3%;
+    margin-bottom: 5px;
+    margin-right: 3%;
+    max-width: 66%;  /* to limit dimensions for small screens */
+    max-height: 300px; /* to limit dimensions for big screens */
+}
+
+.post_signature_avatar {
+    width: 80px;
+    height: 80px;
+    border: 5px;
+    border-radius: 50%;
+    border-color: white;
+    border-style: double;
+    float: left;
+}
+
+/*===========================================================================
+F I G U R E
+---------------------------------------------------------------------------*/
+
+.figure_test {
+    float: right;
+
+    max-width: 30%;
+    text-align: center;
+    font-style: italic;
+    font-size: smaller;
+    text-indent: 0;
+    border: thin silver solid;
+    margin: 0.5em 0.5em 0.5em 0.5em;
+    padding: 0.5em 0em 0.5em 0em;
+}
+
+.figure_withsidelegend {
+    display: flex;
+    align-items: center;
+    counter-increment: fig_caption_count;
+}
+
+.figure_withsidelegend_figcaption {
+    margin-top: 1.30em;
+    margin-bottom: 1.67em;
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+    text-align: center;
+    font-family: 'Lora', serif;
+    font-size: .83em;
+    font-weight: 400;
+    font-style: italic;
+}
+
+.figure_withsidelegend_figcaption::before {
+    content: "Fig. " counter(fig_caption_count) " : \a";
+    white-space: pre-wrap;
+}
+
+.figure_withsidelegend_img {
+    max-width: 70%;
+    max-height: 600px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+/*===========================================================================
+C O N T A C T
+---------------------------------------------------------------------------*/
+
+#contact_section {
+    background-color: rgb(224, 224, 224);
+    padding-top: 50px;
+    padding-bottom: 50px;
+}
+

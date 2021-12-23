@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+  {% include rm_post_head.html %}
+
+  <!-- Page container change top padding when nav shrinks -->
+  <!-- 
+  {% if page.layout == "page" %}
+  <style>
+    #pagecontainer {padding-top: 150px;}
+    @media only screen and (max-width: 991px) {
+      #pagecontainer {padding-top: 100px;}
+    }
+  </style>
+  {% endif %}
+-->
+
+</head>
+
+<body id="page-top">
+  {% include rm_post_navbar.html %}
+
+  <div class="main">
+    <!-- Main content of the post -->
+    {{ content }}
+    {% if page.author %}
+        {% include rm_post_author.html %}
+    {% endif %}
+  </div>
+  {% include rm_post_contact.html %}
+  {% include rm_post_footer.html %}
+  {% include rm_post_scripts.html %}
+</body>
+
+</html>
