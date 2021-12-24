@@ -20,7 +20,7 @@ Vous êtes concerné par une problématique et vous souhaitez qu'on échange ens
 
 ## Mes prises de position au Conseil Municipal
 Liste des articles à ce sujet
-* 2020 : Fiscalité : Pour mettre en place une surtaxe d'habitation sur les résidences secodnaires à Saint-Cloud
+* 2020 : Fiscalité : Pour mettre en place une surtaxe d'habitation sur les résidences secondaires à Saint-Cloud
 * 2020 : Egalité F/H : Pour un rapport de situation en matière d'égalité F/H pour la ville
 * 2020 : Mobilitées douces : Pour des pistes cyclables sécurisées Rue Dailly / Rue du Calvaire / Avenue André Chevrillon en dimmensionnant le futur parking de manière à pouvoir supprimer du stationnement de surface.
 * 2021 : Mobilitées douces : RD7 / Pour une piste cyclable côté Seine (avis déposé auprès du commissaire enquêteur pour l'enquête publique)

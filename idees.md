@@ -4,6 +4,10 @@ title: "Idées"
 subtitle: "Propositions & Prises de position"
 header-img: assets/img/idees/thumbnail.jpg
 ---
+# Idées pour Saint-Cloud
+
+![texte alternatif à l'image](/assets/img/idees/thumbnail2.jpg "Description de l info-bulle image"){:class="img_1_centered"}
+{: .pContainerOfImage}
 
 Sur cette page :
 * Mes valeurs
@@ -11,6 +15,5 @@ Sur cette page :
 
 Vous êtes concerné par une problématique et vous souhaiter qu'on échange ensemble pour co-construire une solution concrète ? Je suis à votre disposition.
 
-![texte alternatif à l'image](/assets/img/idees/thumbnail2.jpg "Description de l info-bulle image"){:class="img_1_centered"}
-{: .pContainerOfImage}
+
 

@@ -1,14 +1,11 @@
 ---
-layout: rm_post
+layout: rm_index
 title: "Rafael Maychmaz, élu à Saint-Cloud"
 subtitle: "page officielle"
 header-img: assets/img/header-bg.jpg
 ---
 
 **SITE EN CONSTRUCTION**
-
-![texte alternatif à l'image](/assets/img/header-bg.jpg "Description de l info-bulle image"){:class="img_1_centered"}
-{: .pContainerOfImage}
 
 Sur cette page :
 * Slogan : "Saint-Cloud : Pour un cadre de vie exceptionnel aux portes de Paris"

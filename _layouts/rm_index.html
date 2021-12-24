@@ -1,0 +1,78 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+  {% include rm_post_head.html %}
+
+  <!-- Page container change top padding when nav shrinks -->
+  <!-- 
+  {% if page.layout == "page" %}
+  <style>
+    #pagecontainer {padding-top: 150px;}
+    @media only screen and (max-width: 991px) {
+      #pagecontainer {padding-top: 100px;}
+    }
+  </style>
+  {% endif %}
+-->
+
+</head>
+
+<body id="page-top">
+  {% include rm_post_navbar.html %}
+
+  <!--
+  <div class="rm_index_header">
+    <p>test</p>
+  </div>-->
+
+  <!-- IMAGE + TEXT D'INTRO  : DEBUT -->
+
+  <header class="masthead">
+    <div class="container">
+          <div class="intro-text">
+
+            <div class="intro-heading text-uppercase"><p>Saint-Cloud</p>
+</div>
+            <div class="intro-lead-in"><p>Pour un cadre de vie exceptionnel aux portes de Paris</p>
+</div>
+
+            <!-- START OF QUOTE-->
+            <div class="quote_container">
+              <div class="quote_text">
+                <p>⟪ Bienvenue !<br>Vous trouvez sur ce site un <b>panorama de mes activités d'élu local</b>.
+                  Mon action, mes propositions pour Saint-Cloud pour enjeux d'aujourd'hui et des années à venir. ⟫</p>
+              </div>
+
+              <div class="quote_signature_container">
+                <img class="quote_signature_avatar" src="assets/img/team/rafael.jpg">
+                <p class="quote_signature_text_p">Rafael Maychmaz<br><i>Conseiller municipal</i></p>
+              </div>
+
+            </div>
+            <!-- END OF QUOTE -->
+
+            <a class="btn btn-primary btn-xl text-uppercase js-scroll-trigger" href="#blog">Quelles sont les news ?</a>
+
+      </div>
+
+    </div>
+  </header>
+<!-- IMAGE + TEXT D'INTRO  : FIN -->
+
+
+
+  <!-- LA SUITE EST EN MODE NORMAL POUR LE MOMENT -->
+  <div class="rm_post_main">
+    <!-- Main content of the post -->
+    {{ content }}
+    {% if page.author %}
+        {% include rm_post_author.html %}
+    {% endif %}
+  </div>
+  {% include rm_post_contact.html %}
+  {% include rm_post_footer.html %}
+  {% include rm_post_scripts.html %}
+</body>
+
+</html>

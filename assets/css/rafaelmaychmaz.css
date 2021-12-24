@@ -2,7 +2,7 @@
 @import url('https://fonts.googleapis.com/css2?family=Lora:ital,wght@0,400;0,500;0,700;1,700&family=Roboto:wght@400;500;700;900&family=Special+Elite&display=swap');
 @import url('https://fonts.googleapis.com/css?family=Open+Sans');
 @import url('https://fonts.googleapis.com/css?family=Kaushan+Script');
-@import url('https://fonts.googleapis.com/css?family=Montserrat');
+@import url('https://fonts.googleapis.com/css?family=Montserrat:ital,wght@0,400;0,500;0,700;1,700');
 @import url('https://fonts.googleapis.com/css?family=Roboto+Slab');
 
 /* Note: clockwise styling => top, right, bottom, left */
@@ -18,8 +18,122 @@ bleu : #4B55A1
 noir : #212529
 */
 
+/* CONTENT = I N D E X (which means home page) */
+
+header.masthead {
+    text-align: center;
+    color: white;
+    background-image: url("../img/header-bg.jpg");
+    background-repeat: no-repeat;
+    background-attachment: scroll;
+    background-position: center center;
+    background-size: cover;
+}
+
+header.masthead .intro-text {
+    padding-top: 100px;
+    padding-bottom: 100px;
+}
+
+header.masthead .intro-text .intro-heading {
+    margin-bottom: 10px;
+}
+
+.intro-heading p {
+    line-height: 50px !important;
+    text-align: center !important;
+    font-size: 42px !important;
+    font-weight: 700 !important;
+    font-family: 'Montserrat' !important;
+}
+
+header.masthead .intro-text .intro-lead-in {
+    margin-bottom: 25px;
+}
+
+.intro-lead-in p {
+    line-height: 1.75 ! important;
+    text-align: center !important;
+    font-size: 22px !important;
+    font-style: italic !important;
+    font-family: 'Droid Serif', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol', 'Noto Color Emoji' !important;
+}
+
+.quote_container {
+    padding: 10px;
+}
+
+.quote_text {
+    margin-top: 10px;
+    text-align: justify;
+}
+
+.quote_text p {
+    line-height: 1.75;
+    margin-top: 0;
+    margin-bottom: 1rem;
+}
+
+.quote_signature_container {
+    margin-left: 1em;
+    margin-right: 1em;
+    padding: 10px;
+    max-height: 15em;
+}
+
+.quote_signature_avatar {
+    width: 80px;
+    height: 80px;
+    border: 5px;
+        border-top-color: currentcolor;
+        border-top-style: none;
+        border-right-color: currentcolor;
+        border-right-style: none;
+        border-bottom-color: currentcolor;
+        border-bottom-style: none;
+        border-left-color: currentcolor;
+        border-left-style: none;
+    border-radius: 50%;
+    border-color: white;
+    border-style: double;
+    float: left;
+}
+
+.quote_signature_container p {
+    text-align: left;
+    vertical-align: middle;
+    display: inline-block;
+    margin-top: 10px;
+    padding: auto;
+    font-family: sans-serif;
+    font-size: 1em;
+    color: white;
+
+    line-height: 1.75;
+
+    margin-top: 0;
+    margin-bottom: 1rem;
+    font-weight: 400 !important;
+}
+
+.intro-text .btn-primary {
+    background-color: #9fcc9d;
+    border-color: #9fcc9d;
+}
+
+.intro-text .btn-xl {
+    font-size: 18px;
+    padding: 20px 40px;
+}
+
+.intro-text .btn {
+    font-family: 'Montserrat' !important;
+    font-weight: 700;
+}
+
+
 @media screen and (max-width: 600px) {
-    .main {
+    .rm_index_header {
         margin-top: 4rem;
         margin-bottom: 4rem;
         margin-left: auto;
@@ -30,7 +144,30 @@ noir : #212529
 }
 
 @media screen and (min-width: 601px) {
-    .main {
+    .rm_index_header {
+        margin-top: 4rem;
+        margin-bottom: 4rem;
+        margin-left: auto;
+        margin-right:auto;
+        max-width: 900px; /* or 1140 */
+        padding-top: 50px;
+    }
+}
+
+/* CONTENT = P O S T */
+@media screen and (max-width: 600px) {
+    .rm_post_main {
+        margin-top: 4rem;
+        margin-bottom: 4rem;
+        margin-left: auto;
+        margin-right:auto;
+        width: 100%;
+        padding-top: 20px;
+    }
+}
+
+@media screen and (min-width: 601px) {
+    .rm_post_main {
         margin-top: 4rem;
         margin-bottom: 4rem;
         margin-left: auto;
