@@ -2,7 +2,7 @@
 layout: rm_post
 title: "Féminisation des noms de rues"
 subtitle: "Pour une meilleure représentation des femmes dans les noms de lieux publics à Saint-Cloud"
-header-img: assets/img/post/2021-12-16-egalite-feminisation-des-noms-de-rues/thumbnail.jpg
+header-img: assets/post/2021-12-16-egalite-feminisation-des-noms-de-rues/thumbnail.jpg
 author: rafael_maychmaz
 date: 2021-12-16 21:00:00 +0100
 categories: idee 

@@ -2,7 +2,7 @@
 layout: rm_post
 title: "Charte européenne pour l'Egalité dans la vie locale"
 subtitle: "Pour que Saint-Cloud adhére à cette charte qui reconnait l'existence de cet enjeu au niveau de l'Europe."
-header-img: assets/img/post/2021-12-16-egalite-charte-europeenne-vie-locale/thumbnail.jpg
+header-img: assets/post/2021-12-16-egalite-charte-europeenne-vie-locale/thumbnail.jpg
 author: rafael_maychmaz
 date: 2021-12-16 21:05:00 +0100
 categories: idee 
