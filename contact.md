@@ -10,7 +10,7 @@ header-img: assets/img/contact/thumbnail1.jpg
 {: .pContainerOfImage}
 
 Sur cette page :
-* Coordonées
+* Coordonnées
 * Formulaire de contact
 * Présence sur les réseaux sociaux
 
