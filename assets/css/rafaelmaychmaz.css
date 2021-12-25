@@ -72,7 +72,41 @@ header.masthead .intro-text .intro-lead-in {
     line-height: 1.75;
     margin-top: 0;
     margin-bottom: 1rem;
+    color: rgb(223, 223, 223);
 }
+
+.quote_text a {
+    text-decoration: underline;
+    font-weight: normal;
+    color: white;
+}
+
+
+.quote_text a:link {
+
+}
+
+.quote_text a:visited {
+    text-decoration: underline;
+    font-weight: normal;
+    color: white;
+}
+
+.quote_text a:focus {
+    color: #b0ddad;
+    text-decoration: underline;
+}
+
+.quote_text a:hover {
+    color: #b0ddad;
+    text-decoration: underline;
+}
+
+.quote_text a:active {
+
+}
+
+
 
 .quote_signature_container {
     margin-left: 1em;
