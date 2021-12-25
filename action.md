@@ -49,5 +49,19 @@ Comment est structuré un conseil municipal
 
 Quel est le rôle d'un élu d'opposition
 
-Qu'est-ce que le FSRIF
+<div class="container" style="margin-top:10px; margin-bottom:10px;">
+    {% for post in site.categories.formation offset:0 limit:9 %}
+        <div class="row" style="margin-top:10px;">
+            <div class="col-5">
+                <img src="{{ post.header-img }}" width="100%" height="90px" class="img-fluid rounded">
+            </div>
+            <div class="col-7">
+                <a href="{{ post.url }}">{{ post.title }}</a><br>
+                {{ post.date | date_to_french }}
+            </div>
+        </div>
+    {% endfor %}
+</div>
+
+
 
