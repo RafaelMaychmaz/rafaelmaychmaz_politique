@@ -2,7 +2,7 @@
 layout: rm_index
 title: "Rafael Maychmaz, élu à Saint-Cloud"
 subtitle: "page officielle"
-header-img: assets/img/header-bg.jpg
+header-img: assets/img/index_overview.jpg
 ---
 
 **SITE EN CONSTRUCTION**
