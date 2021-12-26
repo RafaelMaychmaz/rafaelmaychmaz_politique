@@ -40,9 +40,22 @@ Merci à nos commerçants
 Sur le terrain
 
 ## Mon bilan annuel
-2020 : apprentissage (x votes POUR, y votes ABS, z votes CONTRE)
 
-2021 : nouveaux sujets (x votes POUR, y votes ABS, z votes CONTRE)
+<div class="container" style="margin-top:10px; margin-bottom:10px;">
+    {% for post in site.categories.action offset:0 limit:20 %}
+        {% if post.tags contains "bilan" %}
+            <div class="row" style="margin-top:10px;">
+                <div class="col-5">
+                    <img src="{{ post.header-img }}" width="100%" height="90px" class="img-fluid rounded">
+                </div>
+                <div class="col-7">
+                    <a href="{{ post.url }}">{{ post.title }}</a><br>
+                    {{ post.date | date_to_french }}
+                </div>
+            </div>
+        {% endif %}
+    {% endfor %}
+</div>
 
 ## Comprendre la vie municipale
 Comment est structuré un conseil municipal
