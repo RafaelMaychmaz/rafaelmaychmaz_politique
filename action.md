@@ -28,6 +28,8 @@ Liste des articles à ce sujet
 * 2021 : Petite enfance : pour une étude d'impact sur la prime au 3ème enfant et pour une reflexion sur cette ligne budgétaire
 * 2021 : Egalité F/H : Pour une meilleure représentation des femmes dans les noms de rues et lieux publics
 * 2021 : Egalité F/H : Charte européenne pour l'égalité F/H dans la vie locale
+* 2022 : Logement social : Attachement à la loi SRU.
+* 2022 : Reforme territorial : les apports de la loi 3DS (Decentralisation, Différentiation, Déconcentration, Simplification) pour Saint-Cloud et à l'échelle du territoire.
 
 ## Ma participation au CCAS
 Qu'est ce que le CCAS, qui y participe, qu'est-ce qu'il s'y passe ?
