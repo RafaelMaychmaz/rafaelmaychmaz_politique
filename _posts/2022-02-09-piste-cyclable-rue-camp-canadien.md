@@ -17,15 +17,15 @@ tags: mobilité
 Le tour de l'hippodrome de Saint-Cloud bénéficie aujourd'hui partiellement de pistes cyclables : côté Garches et Rueil-Malmaison.
 
 En revanche pour la partie côté Saint-Cloud (rue du Camp Canadien et avenue Francis Chaveton), il n'y a pas d'aménagement cyclables. Les vélos ont donc aujourd'hui le choix entre :
-* Aller sur la chaussée étroite qui est empruntée par des voitures circulant à des vitesses élevées. D'une part cela est dangereux pour un cycliste adulte, d'autre part cela n'est pas compatible d'une balade avec des enfants.
+* Aller sur la chaussée étroite et côtoyer des voitures circulant à vitesse élevée. D'une part cela est dangereux pour un cycliste adulte, d'autre part cela n'est pas compatible d'une balade avec des enfants.
 * Emprunter la promenade piétonne ; laquelle est formellement interdite aux vélos.
 
-Ces deux voies côtés Saint-Cloud sont des axes de mobilités important, à la fois pour les clodoaldiens mais aussi pour les habitants des communes avoisinantes.
+Ces deux voies côtés Saint-Cloud sont des axes de mobilité importants, à la fois pour les clodoaldiens mais aussi pour les habitants des communes avoisinantes.
 
 ## Ma proposition
 🚴🏻‍♂️🚴🏻‍♀️🚴🏻‍♂️ Je suis pour créer une piste cyclable double sens rue du Camp Canadien à Saint-Cloud.
 
-➡️ Il y a l'espace à la place d'une partie des buissons mal entretenus.
+➡️ Globalement il y a suffisamment d'espace et sur la portion la moins large, cela peut se faire à la place des buissons mal entretenus.
 
 ➡️ Permettons aux vélos petits et grands de faire le tour de l'hippodrome en sécurité! 🚲
 
