@@ -78,5 +78,22 @@ Quel est le rôle d'un élu d'opposition
     {% endfor %}
 </div>
 
+## Autres articles
+
+<div class="container" style="margin-top:10px; margin-bottom:10px;">
+    {% for post in site.categories.action offset:0 limit:20 %}
+        {% unless post.tags contains "bilan" %}
+            <div class="row" style="margin-top:10px;">
+                <div class="col-5">
+                    <img src="{{ post.header-img }}" width="100%" height="90px" class="img-fluid rounded">
+                </div>
+                <div class="col-7">
+                    <a href="{{ post.url }}">{{ post.title }}</a><br>
+                    {{ post.date | date_to_french }}
+                </div>
+            </div>
+        {% endunless %}
+    {% endfor %}
+</div>
 
 
