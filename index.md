@@ -17,7 +17,8 @@ Voici les 4 derniers articles. Pour plus d'articles, se rendre dans la rubrique 
             </div>
             <div class="col-7">
                 <a href="{{ post.url }}">{{ post.title }}</a><br>
-                {{ post.date | date_to_french }}
+                {{ post.date | date_to_french }}<br>
+                <b>&rarr;</b> <i>{{ post.subtitle }}</i>
             </div>
         </div>
     {% endfor %}
