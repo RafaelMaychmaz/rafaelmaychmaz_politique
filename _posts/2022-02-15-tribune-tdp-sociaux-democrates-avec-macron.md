@@ -30,7 +30,7 @@ Alors que les partis de la gauche traditionnelle ne parviennent plus à parler a
 Pour nos enfants, soyons fiers d’avoir permis aux élèves de CP et CE1 en zones d’éducation prioritaire d’étudier dans des classes dédoublées, de [bénéficier de petits-déjeuners gratuits](https://www.lopinion.fr/economie/emmanuel-macron-travaille-son-capital-jeunesse) et d’être aidés dans la réalisation de leurs devoirs. Pour ceux qui travaillent, soyons fiers d’avoir augmenté la prime d’activité, d’avoir supprimé les impôts et charges sur les heures supplémentaires et d’avoir baissé l’impôt sur le revenu de cinq milliards d’euros. Pour les plus fragiles, soyons fiers d’avoir revalorisé le minimum vieillesse et l’allocation adultes handicapés de 100 euros par mois et d’avoir porté le minimum de pension des agriculteurs à 1 000 euros.
 
 
-<div class="paf">
+<div class="quote1">
 <blockquote>D’immenses défis demeurent, pour l’égalité des chances, pour une transition écologique sociale et solidaire, pour le droit à mourir dans la dignité</blockquote>
 <cite>Territoire de Progrès</cite>
 </div>

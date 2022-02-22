@@ -369,7 +369,7 @@ h6 {
 }
 
 /* Quote "une belle citation" */
-.paf {
+.quote1 {
     font-family: 'Special Elite', cursive;
     color: #3f3f5a;
     display: flex;
@@ -380,7 +380,7 @@ h6 {
 
 blockquote {
     font-weight: 100;
-    font-size: 2rem;
+    font-size: 1.4rem;
     max-width: 500px;
     line-height: 1.4;
     position: relative;
@@ -395,21 +395,21 @@ blockquote:before,
 blockquote:after {
     position: absolute;
     color: #b1b5ca;
-    font-size: 8rem;
-    width: 4rem;
-    height: 4rem;
+    font-size: 6rem;
+    width: 3rem;
+    height: 3rem;
 }
 
 blockquote:before {
     content: '“';
-    left: -4rem;
+    left: -3rem;
     top: -2rem;
 }
 
 blockquote:after {
     content: '”';
-    right: -4rem;
-    bottom: 1rem;
+    right: -3rem;
+    bottom: 0.8rem;
 }
 
 cite {

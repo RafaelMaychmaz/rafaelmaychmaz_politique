@@ -27,7 +27,7 @@ Ci-dessus un exemple d'un titre <tagcode>h6</tagcode>. Ce n'est pas utilisé com
 
 Voici une citation.
 
-<div class="paf">
+<div class="quote1">
 <blockquote>The man who comes back through the door in the wall will never be quite the same as the man who went out.</blockquote>
 <cite>Aldous Huxley</cite>
 </div>
