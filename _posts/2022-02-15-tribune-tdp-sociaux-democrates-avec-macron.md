@@ -19,7 +19,7 @@ tags: media politique
 
 ✒️Fier de signer cette tribune avec les élus **Territoires de Progres** "force est de constater que notre majorité est allée beaucoup plus loin que les précédents gouvernements de gauche, pour améliorer la vie des Français et protéger les plus fragiles."
 
-Tribune paru sur le journal [l'Opinion](https://www.lopinion.fr/politique/pour-cinq-ans-de-plus-de-progres-social-sociaux-democrates-rejoignez-emmanuel-macron-la-tribune-de-241-elus-venus-de-la-gauche) et dont le texte se trouve ci-après.
+Tribune paru le 15 février 2022 dans le journal [l'Opinion](https://www.lopinion.fr/politique/pour-cinq-ans-de-plus-de-progres-social-sociaux-democrates-rejoignez-emmanuel-macron-la-tribune-de-241-elus-venus-de-la-gauche) et dont le texte se trouve ci-après.
  
 ## Tribune de 241 élus à l'initiative de Territoires de Progrès
 

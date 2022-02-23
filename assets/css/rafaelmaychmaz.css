@@ -30,6 +30,12 @@ header.masthead {
     background-size: cover;
 }
 
+@media screen and (max-width: 600px) {
+    header.masthead {
+        background-position: right -7.5em center;
+    }
+}
+
 header.masthead .intro-text {
     padding-top: 100px;
     padding-bottom: 100px;

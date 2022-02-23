@@ -19,9 +19,9 @@ tags: media logement politique
 
 ✒️ Etre cosignataire de la tribune ci-dessous est une source de fierté pour moi qui suit conseiller municipal à Saint-Cloud, ville carencée en logements sociaux, car c'est la réaffirmation que la loi SRU est clé pour la mixité sociale ; en particulier dans les métropoles où elle constitue LE rempart principal à la gentrification.
 
-Merci à Emmanuelle Wargon pour cette tribune paru dans le [Le Monde](https://www.lemonde.fr/idees/article/2022/02/02/en-proposant-de-supprimer-la-loi-sru-eric-zemmour-attaque-de-front-le-logement-des-classes-moyennes-et-populaires_6111947_3232.html) et dont le texte se trouve ci-après.
+Merci à Emmanuelle Wargon pour cette tribune paru le 2 février 2022 dans le [Le Monde](https://www.lemonde.fr/idees/article/2022/02/02/en-proposant-de-supprimer-la-loi-sru-eric-zemmour-attaque-de-front-le-logement-des-classes-moyennes-et-populaires_6111947_3232.html) et dont le texte se trouve ci-après.
  
-## Tribune d'Emmanuel Wargon - Ministre du logement
+## Tribune d'Emmanuelle Wargon - Ministre du logement
 
 Le 6 janvier, au micro d’une grande radio nationale [Europe 1], un candidat à la présidence de la République, Eric Zemmour, proposait de supprimer la loi Solidarité et renouvellement urbains (SRU) dans l’indifférence quasi générale. Triste coïncidence, nous commémorions, quelque deux semaines plus tard, les quinze ans de la mort de l’abbé Pierre (1912-2007), dont le dernier combat politique fut la défense de cette loi.
 
