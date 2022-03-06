@@ -1,3 +1,4 @@
+<!--
 ---
 layout: rm_post
 title: "Merci pour votre don"
@@ -11,3 +12,4 @@ header-img: assets/img/soutenir/thumbnail.jpg
 
 Grâce à vous, ma mission à votre service sera facilité. Merci infiniment :)
 
+-->
