@@ -24,9 +24,5 @@ Voici les 4 derniers articles. Pour plus d'articles, se rendre dans la rubrique 
     {% endfor %}
 </div>
 
-Sur cette page :
-* Ma bio en bref (Père de famille, 36 ans, Val d'or, Ingénieur, acteur associatif)
-* Formulaire de contact
-* Présence sur les réseaux sociaux
-
-
+# Tribunes
+**SITE EN CONSTRUCTION**

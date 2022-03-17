@@ -23,16 +23,22 @@ noir : #212529
 header.masthead {
     text-align: center;
     color: white;
-    background-image: url("../img/header-bg.jpg");
     background-repeat: no-repeat;
     background-attachment: scroll;
     background-position: center center;
     background-size: cover;
 }
 
+@media screen and (min-width: 601px) {
+    header.masthead {
+        background-image: url("../img/header-bg_pc.png");
+    }
+}
+
 @media screen and (max-width: 600px) {
     header.masthead {
         background-position: right -7.5em center;
+        background-image: url("../img/header-bg_smartphone.jpg");
     }
 }
 
