@@ -636,3 +636,26 @@ C O N T A C T
     padding-bottom: 50px;
 }
 
+
+/*===========================================================================
+C O N T A C T
+---------------------------------------------------------------------------*/
+.rm_bouton_1 {
+    text-align: center;
+    margin-top: 3em;
+}
+
+.rm_bouton_1 .btn-primary {
+    background-color: #9fcc9d;
+    border-color: #9fcc9d;
+}
+
+.rm_bouton_1 .btn-xl {
+    font-size: 18px;
+    padding: 20px 40px;
+}
+
+.rm_bouton_1 .btn {
+    font-family: 'Montserrat' !important;
+    font-weight: 700;
+}

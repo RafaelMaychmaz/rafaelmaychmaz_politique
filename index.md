@@ -25,10 +25,10 @@ Voici les 4 derniers articles. Pour plus d'articles, se rendre dans la rubrique 
     {% endfor %}
 </div>
 
-# Tribunes
+# Tribunes municipales
 
 <div class="container" style="margin-top:10px; margin-bottom:10px;">
-    {% for post in site.categories.tribune_saint_cloud_2020 offset:0 limit:20 %}
+    {% for post in site.categories.tribune_saint_cloud_2020 offset:0 limit:5 %}
         <div class="row" style="margin-top:10px;">
             <div class="col-5">
                 <img src="{{ post.header-img }}" width="100%" height="90px" class="img-fluid rounded">
@@ -39,4 +39,8 @@ Voici les 4 derniers articles. Pour plus d'articles, se rendre dans la rubrique 
             </div>
         </div>
     {% endfor %}
+</div>
+
+<div class="rm_bouton_1">
+<a class="btn btn-primary btn-xl text-uppercase js-scroll-trigger" href="/tribunes_saintcloud2020">Voir toutes les tribunes municipales</a>
 </div>
