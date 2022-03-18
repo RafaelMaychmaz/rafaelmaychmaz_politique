@@ -4,7 +4,7 @@ title: "Gare du Grand Paris Express : une opportunité pour notre ville... à ne
 subtitle: "Tribune du groupe municipal 'Saint-Cloud 2020!' de septembre 2021"
 header-img: assets/post/2021-09-01-tribune-stcloudmag/thumbnail.png
 author: rafael_maychmaz
-date: 2021-09-01 00:01:00 +0100
+date: 2021-09-01 03:00:00 +0100
 categories: tribune_saint_cloud_2020 
 tags: mobilité
 ---
