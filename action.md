@@ -20,11 +20,57 @@ Vous êtes concerné par une problématique et vous souhaitez qu'on échange ens
 
 ## Mes prises de position au Conseil Municipal
 Liste des articles à ce sujet
-* 2022 : Reforme territorial : les apports de la loi 3DS (Decentralisation, Différentiation, Déconcentration, Simplification) pour Saint-Cloud et à l'échelle du territoire.
-* 2022 : Logement social : Attachement à la loi SRU.
-* 2021 : Egalité F/H : Charte européenne pour l'égalité F/H dans la vie locale
-* 2021 : Egalité F/H : Pour une meilleure représentation des femmes dans les noms de rues et lieux publics
-* 2021 : Petite enfance : pour une étude d'impact sur la prime au 3ème enfant et pour une reflexion sur cette ligne budgétaire
+
+### 2022 : Loi 3DS
+Reforme territorial : les apports de la loi 3DS (Decentralisation, Différentiation, Déconcentration, Simplification) pour Saint-Cloud et à l'échelle du territoire.
+
+<div style="text-align: center">
+<iframe
+width={{ site.data.navigation.youtube_width }}
+height={{ site.data.navigation.youtube_height }}
+src="https://www.youtube.com/embed/X2hr45-fSJI" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
+
+
+### 2022 : Logement social : Attachement à la loi SRU.
+
+<div style="text-align: center">
+<iframe
+width={{ site.data.navigation.youtube_width }}
+height={{ site.data.navigation.youtube_height }}
+src="https://www.youtube.com/embed/6xIo0VzErek" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
+
+
+### 2021 : Egalité F/H : Charte européenne pour l'égalité F/H dans la vie locale
+
+<div style="text-align: center">
+<iframe
+width={{ site.data.navigation.youtube_width }}
+height={{ site.data.navigation.youtube_height }}
+src="https://www.youtube.com/embed/ctpoPzaTz7g" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
+
+### 2021 : Egalité F/H : Féminisation des noms de rues
+Pour une meilleure représentation des femmes dans les noms de rues et lieux publics
+
+<div style="text-align: center">
+<iframe
+width={{ site.data.navigation.youtube_width }}
+height={{ site.data.navigation.youtube_height }}
+src="https://www.youtube.com/embed/BWfFmGP41xM" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
+
+
+### 2021 : Petite enfance : Prime au 3ème enfant
+Pour une étude d'impact sur la prime au 3ème enfant et pour une reflexion sur cette ligne budgétaire
+
+<div style="text-align: center">
+<iframe
+width={{ site.data.navigation.youtube_width }}
+height={{ site.data.navigation.youtube_height }}
+src="https://www.youtube.com/embed/56UtBGXXzWU" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
 
 ### 2021 : Urbanisme : parcelle ex Capgemini
 Pour un meilleur usage de la parcelle de l'ancien site Cap Gemini.
