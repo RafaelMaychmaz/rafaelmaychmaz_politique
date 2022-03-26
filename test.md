@@ -321,3 +321,15 @@ Vivamus id fringilla odio. In et sapien euismod, rhoncus nulla aliquam, viverra 
 
 <p class="p_loremipsum">
 Nulla rhoncus ac leo facilisis pulvinar. Donec quis velit ultrices, volutpat risus id, commodo enim. Nunc volutpat et tellus at eleifend. Mauris mauris tortor, condimentum vel congue vitae, lacinia aliquam urna. Aenean volutpat a massa ac laoreet. Sed fringilla maximus justo vel dictum. Praesent neque magna, lacinia at dignissim eget, varius vel ligula. Suspendisse tincidunt sit amet magna eu dignissim. Integer ornare posuere quam. Maecenas risus quam, facilisis faucibus aliquam pellentesque, volutpat eget nisi.</p>
+
+
+## YouTube
+
+<div style="text-align: center">
+<iframe
+width={{ site.data.navigation.youtube_width }}
+height={{ site.data.navigation.youtube_height }}
+src="https://www.youtube.com/embed/hRAmAzIudTY" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
+
+
