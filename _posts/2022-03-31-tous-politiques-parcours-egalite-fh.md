@@ -8,7 +8,7 @@ date: 2022-03-31 01:00:00 +0100
 categories: action 
 tags: egalite_fh
 ---
-# Votes aux Conseils Municipaux 2022
+# Publication : Egalité F/H et Espace publics
 
 ![texte alternatif à l'image](/assets/post/2022-03-31-tous-politiques-parcours-egalite-fh/thumbnail.jpg "Description de l info-bulle image"){:class="img_1_centered"}
 {: .pContainerOfImage}
@@ -46,4 +46,6 @@ Vous aussi vous pouvez vous engager sur les thématiques qui vous sont chères e
 
 ![texte alternatif à l'image](/assets/post/2022-03-31-tous-politiques-parcours-egalite-fh/paragraphe_rafael_maychmaz.jpg "Description de l info-bulle image"){:class="img_1_centered"}
 {: .pContainerOfImage}
+
+👀 Voir en page 16 de la publication : [https://lnkd.in/dQz2igTU](https://lnkd.in/dQz2igTU)
 
